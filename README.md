@@ -1,1 +1,1 @@
-Exercises on functions and nested loops in C
+Learning the C language
