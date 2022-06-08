@@ -1,1 +1,1 @@
-Low Level Programming exercises with C
+Exercises on functions and nested loops in C
