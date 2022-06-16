@@ -1,1 +1,1 @@
-Learning the C language
+C pointers and arrays
