@@ -1,11 +1,3 @@
-100-is_palindrome.c
-@esube1000
-esube1000 Create 100-is_palindrome.c
-Latest commit 672d2b0 on Mar 31
- History
- 1 contributor
-50 lines (42 sloc)  607 Bytes
-
 #include "main.h"
 
 /**
