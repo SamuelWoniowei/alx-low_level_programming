@@ -27,7 +27,3 @@ char *_strdup(char *str)
 
 	return (p);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
